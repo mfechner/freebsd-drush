@@ -2,7 +2,7 @@
 # $FreeBSD: head/www/drush/Makefile 435250 2017-03-02 16:08:46Z miwi $
 
 PORTNAME=	drush
-PORTVERSION=	8.1.10
+PORTVERSION=	8.1.11
 CATEGORIES=	www
 MASTER_SITES=	https://github.com/drush-ops/drush/releases/download/${DISTVERSION}/
 DISTNAME=	drush
